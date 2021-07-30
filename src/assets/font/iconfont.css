@@ -1,0 +1,159 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2669789 */
+  src: url('iconfont.woff2?t=1626676754079') format('woff2'),
+       url('iconfont.woff?t=1626676754079') format('woff'),
+       url('iconfont.ttf?t=1626676754079') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-block:before {
+  content: "\e8b2";
+}
+
+.icon-check:before {
+  content: "\e85c";
+}
+
+.icon-expandless:before {
+  content: "\eb3e";
+}
+
+.icon-toc:before {
+  content: "\ed67";
+}
+
+.icon-swapvert:before {
+  content: "\e77a";
+}
+
+.icon-share:before {
+  content: "\e61e";
+}
+
+.icon-expand-more:before {
+  content: "\e667";
+}
+
+.icon-view:before {
+  content: "\e6b4";
+}
+
+.icon-Refresh:before {
+  content: "\e60f";
+}
+
+.icon-timeline:before {
+  content: "\e8ca";
+}
+
+.icon-local-offer:before {
+  content: "\ebfe";
+}
+
+.icon-child-friendly:before {
+  content: "\ec43";
+}
+
+.icon-ballot_px_rounded:before {
+  content: "\ed5a";
+}
+
+.icon-gift:before {
+  content: "\ea3d";
+}
+
+.icon-playlist-play:before {
+  content: "\e901";
+}
+
+.icon-baseline-close-px:before {
+  content: "\e615";
+}
+
+.icon-right:before {
+  content: "\e65c";
+}
+
+.icon-time-lapse:before {
+  content: "\e602";
+}
+
+.icon-ethereum:before {
+  content: "\eb8a";
+}
+
+.icon-star:before {
+  content: "\e60e";
+}
+
+.icon-add:before {
+  content: "\e6fd";
+}
+
+.icon-chart:before {
+  content: "\e601";
+}
+
+.icon-list:before {
+  content: "\e8a4";
+}
+
+.icon-warning:before {
+  content: "\e8da";
+}
+
+.icon-lock:before {
+  content: "\e611";
+}
+
+.icon-search:before {
+  content: "\e7ea";
+}
+
+.icon-menu:before {
+  content: "\e62e";
+}
+
+.icon-edit:before {
+  content: "\e62a";
+}
+
+.icon-visit:before {
+  content: "\e65a";
+}
+
+.icon-more:before {
+  content: "\e65b";
+}
+
+.icon-twitter:before {
+  content: "\e8a8";
+}
+
+.icon-medium:before {
+  content: "\eb7b";
+}
+
+.icon-telegram:before {
+  content: "\eaf9";
+}
+
+.icon-img:before {
+  content: "\e61b";
+}
+
+.icon-discord:before {
+  content: "\eb7a";
+}
+
+.icon-GitHub:before {
+  content: "\e600";
+}
+

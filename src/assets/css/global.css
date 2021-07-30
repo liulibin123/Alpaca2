@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul,
+ol,
+li {
+  list-style-type: none;
+}
+
+#app a {
+  color: #000;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+#app .btn-default[disabled] {
+  background-color: #f4f4f4;
+}
+
+img {
+  vertical-align: middle;
+  border-style: none;
+}
+
+.clearfix::after {
+  display: block;
+  content: '';
+  clear: both;
+  visibility: hidden;
+  height: 0;
+}
+
+
+/* default-grey-mask */
+.default-grey-mask {
+  color: #ddd !important;
+  border-radius: 5px;
+  background-color: #ddd !important;
+}
